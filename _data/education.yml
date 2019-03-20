@@ -1,9 +1,19 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+- name: Sharif Univeristy of Technology
+  dates: 2015 - Present
+  qualification: BSc Computer Engineering
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Studying Software Engineering at Computer Engineering Department. 
+    
+    **GPA**: 4/4 (19.73/20).
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    **Related Courses:**
+    
+    Probability and Statistics (20/20), Linear Algebra (19.8/20), Regression Analysis (20/20), Stochastic Processes (20/20), Artificial Intelligence (20/20), Introduction to Machine Learning (20/20), Information Theory (Graduate Course) (20/20).
+    
+- name: Allameh Helli 1 Highschool
+  dates: 2011-2015
+  qualification: Diploma in Mathematics and Physics
+  description: |
+    Affiliated with the National Organization for the Development of Exceptional Talents (NODET)
+    
+    **GPA**: 19.87/20
