@@ -3,7 +3,7 @@
   {% for project in site.data.projects %}
     <div class="row clearfix project">
       <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})" />
+        <span class="profile-img" style="background-image: url({{ project.image | relative_url }})" />
       </div>
 <!--       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4>{{ project.name }}</h4>
