@@ -61,12 +61,12 @@
   job_title: Teaching Assistant
   description: |
     Spring 2019: 
-    1. Deep Learning (Graduate Course)
-    2. Information Theory (Grduate Course)
+    + Deep Learning (Graduate Course)
+    + Information Theory (Grduate Course)
       
     Fall 2018:
-    1. Stochastic Processes (Graduate Course)
-    2. Linear Algebra
+    + Stochastic Processes (Graduate Course)
+    + Linear Algebra
     
     Spring 2018:
     1. Probability and Statistics for Computer Engineering
