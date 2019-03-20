@@ -7,25 +7,29 @@
   description: | # this will include new lines to allow paragraphs
     During the summer of 2018, I worked as a research intern in the 
     Computer Aided Medical Procedures and Augmented Reality Lab ([CAMPAR](http://campar.in.tum.de)), 
-    under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
+    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM).
     From September 2018, I started my collaboration with my advisor remotely.
     
     My research centered around Deep Learning on Graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
     
     Based on the insight gained from these visualizations, we proposed new architectures that were applied to medical datasets. 
-    The initial results of this study are now published and accepted for oral presentation in IEEE International Symposium on Biomedical Imaging (ISBI 2019). 
+    The initial results of this study are now published and accepted for oral presentation 
+    in IEEE International Symposium on Biomedical Imaging ([ISBI 2019](https://biomedicalimaging.org/2019/)). 
+    
     Furthermore, we proposed a novel architecture called InceptionGCN addressing the problem of manually setting neighborhood size of nodes. 
-    It is published in a new paper accepted for oral presentation (7% acceptance rate) in international conference on Information Processing in Medical Imaging (IPMI 2019).
+    It is published in a new paper accepted for oral presentation (7% acceptance rate) 
+    in international conference on Information Processing in Medical Imaging ([IPMI 2019](https://ipmi2019.cse.ust.hk/)).
 
 - company: Sharif University of Technology
   job_title: Research Assistant
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    I have started to work on research two projects at [MLL](http://mll.ce.sharif.edu/) under supervision of Dr. Soleymani:
+    I have started to work on research two projects at [MLL](http://mll.ce.sharif.edu/) under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/):
     
     Goal of the first one is to analyze mammograms of a locally collected dataset by deep learning methods detecting clusters of micro-calcification in mammograms with high quality. 
     
-    Recenlty, I have also started another new project on a publicly available EEG data to classify subjects based on their arrousal using signals. 
+    Recenlty, I have also started another new project on a publicly available EEG data ([DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)) 
+    to classify subjects based on their arrousal using signals. 
     Our main approach is to solve this problem using multilayered graph convolutional networks.
     
 - company: DataDays
