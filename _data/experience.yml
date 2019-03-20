@@ -12,13 +12,13 @@
     
     My research centered around Deep Learning on Graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
     
-    Based on the insight gained from these visualizations, we proposed new architectures that were applied to medical datasets. 
-    The initial results of this study are now published and accepted for oral presentation 
-    in IEEE International Symposium on Biomedical Imaging ([ISBI 2019](https://biomedicalimaging.org/2019/)). 
+    Based on the insight gained from these visualizations, we proposed a new architecture that was applied to medical datasets. 
+    The result of this study is now published and accepted for oral presentation
+    in **IEEE International Symposium on Biomedical Imaging** ([ISBI 2019](https://biomedicalimaging.org/2019/)). 
     
     Furthermore, we proposed a novel architecture called InceptionGCN addressing the problem of manually setting neighborhood size of nodes. 
     It is published in a new paper accepted for oral presentation (7% acceptance rate) 
-    in international conference on Information Processing in Medical Imaging ([IPMI 2019](https://ipmi2019.cse.ust.hk/)).
+    in International Conference on **Information Processing in Medical Imaging** ([IPMI 2019](https://ipmi2019.cse.ust.hk/)).
 
 - company: Sharif University of Technology
   job_title: Research Assistant
