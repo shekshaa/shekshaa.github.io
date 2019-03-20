@@ -22,7 +22,7 @@
     
     ---
     
-    Multi-modal data comprising imaging (MRI, fMRI, PET, etc.) and non-imaging (clinical test, demographics, etc.) data can be collected together and used for disease prediction. 
+    Multi-modal data comprising imaging (MRI, fMRI, etc.) and non-imaging (demographics, etc.) data can be collected together and used for disease prediction. 
     A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
     We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
