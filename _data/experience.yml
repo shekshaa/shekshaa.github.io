@@ -1,10 +1,10 @@
 - company: Technical Univeristy Munich
   link: boringcompany.com
   jobs:
-    -title: Research Intern
-     dates: July 2018 - September 2018
-    -title: Researcher
-     dates: September 2018 - Present
+    - title: Research Intern
+      dates: July 2018 - September 2018
+    - title: Researcher
+      dates: September 2018 - Present
   quote: >
   description: | # this will include new lines to allow paragraphs
     During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
