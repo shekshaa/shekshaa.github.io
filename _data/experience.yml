@@ -1,8 +1,14 @@
-- company: The Boring Company
+- company: Technical Univeristy Munich
   link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  job_title: Research Intern
+  dates: July 2018 - September 2018
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM). 
+    
+    My research centered around deep learning on graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
+    
+    Based on the insight gained from these visualizations, we proposed new architectures that were applied to medical datasets. 
+    The initial results of this study are now published and accepted for oral presentation in IEEE International Symposium on Biomedical Imaging (ISBI 2019). 
+    Furthermore, we proposed a novel architecture called InceptionGCN addressing the problem of manually setting neighborhood size of nodes. 
+    It is published in a new paper accepted for oral presentation (7% acceptance rate) in international conference on Information Processing in Medical Imaging (IPMI 2019).
