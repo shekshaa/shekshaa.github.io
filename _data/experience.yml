@@ -28,12 +28,12 @@
     under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two research projects.
     
     In the first project we have aimed to analyze Mammograms of a locally collected dataset 
-    with Convolutional Neural Networks (CNN) in order to detect clusters of micro-calcification in them with high quality.
+    with Convolutional Neural Networks (CNN) in order to **detect clusters of micro-calcification** in them with high quality.
     
     Recenlty, I have also started working on a publicly available 
     EEG data ([DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)) 
-    to classify subjects based on their arrousal using signals. 
-    Our main approach is to solve this problem using multilayered graph convolutional networks.
+    to **classify subjects in terms of different feelings using their signals**. 
+    Our main approach is to solve this problem using **multilayered graph convolutional networks**.
     
 - company: DataDays
   job_title: Scientific Staff
@@ -44,7 +44,7 @@
     Its main goal was to broaden appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
-    I joined Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
+    I joined the Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
     The whole competition was centered around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
     This dataset mainly comprises online advertisements published by people in different categories.
   
@@ -54,5 +54,5 @@
   description: |
     During summer of 2017, I worked for a start-up called [Yektanet](https://www.yektanet.com/), an online advertisement platform in my country. 
     This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
-    I was employed as data scientist and developed algorithms **determining the subject of web pages** based on their **main textual data**. 
+    I was employed as data scientist and developed algorithms **determining the subject of web pages using their textual data**. 
     They are now deployed for displaying relevant items of advertisement on each webpage.
