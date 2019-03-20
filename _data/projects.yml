@@ -13,8 +13,8 @@
     Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab
     
     Information Processing in Medical Imaging (IPMI 2019)
-    
     [[PDF](https://arxiv.org/pdf/1903.04233.pdf)][[Code](https://github.com/shekshaa/InceptionGCN)]
+    
 - name: ParallelGCN
   image: images/ISBI_method.png
   description: |
@@ -32,5 +32,4 @@
     Shadi Albarqouni, and Nassir Navab 
     
     IEEE International Symposium on Biomedical Imaging (ISBI 2019)
-    
     [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
