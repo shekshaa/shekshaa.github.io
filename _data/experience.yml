@@ -25,15 +25,16 @@
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
     I joined [MLL](http://mll.ce.sharif.edu/) as **research assitant** 
-    under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two research projects.
+    under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two projects.
     
     In the first project we have aimed to analyze Mammograms of a locally collected dataset 
     with Convolutional Neural Networks (CNN) in order to **detect clusters of micro-calcification** in them with high quality.
     
-    Recenlty, I have also started working on a publicly available 
-    EEG data ([DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)) 
-    to **classify subjects in terms of different feelings using their signals**. 
-    Our main approach is to solve this problem using **multilayered graph convolutional networks**.
+    Recenlty, I have also started to work on my Bachelor Thesis which is related to 
+    **classifying subjects in terms of different feelings such as arousal and dominance using their EEG signals**
+    collected as as [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)) 
+    publicly available dataset.
+    Our main approach is to solve this problem using Multilayered Graph Convolutional Networks.
     
 - company: DataDays
   job_title: Scientific Staff
