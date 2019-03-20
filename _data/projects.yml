@@ -10,7 +10,7 @@
     We design filters with different kernel sizes to build our architecture.
     
     Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar1, Karsten Kortum,
-    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab [PDF](https://arxiv.org/pdf/1903.04233.pdf)[Code](https://github.com/shekshaa/InceptionGCN)
+    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab [[PDF](https://arxiv.org/pdf/1903.04233.pdf)[Code](https://github.com/shekshaa/InceptionGCN)]
 
 - name: ParallelGCN
   image: images/ISBI_method.png
@@ -26,4 +26,4 @@
     by exploring its relation to the underlying disease.
     
     Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
-    Shadi Albarqouni, and Nassir Navab [PDF](https://arxiv.org/pdf/1812.09954.pdf)
+    Shadi Albarqouni, and Nassir Navab [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
