@@ -9,7 +9,9 @@
     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
     We design filters with different kernel sizes to build our architecture.
     
-    ([PDF link](arxiv.org/pdf/1903.04233.pdf) [Code link](github.com/shekshaa/InceptionGCN))
+    [PDF link](arxiv.org/pdf/1903.04233.pdf)
+    
+    [Code link](github.com/shekshaa/InceptionGCN)
 
 - name: ParallelGCN
   image: images/ISBI_method.png
@@ -24,4 +26,4 @@
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
     by exploring its relation to the underlying disease.
     
-    ([PDF link](arxiv.org/pdf/1812.09954.pdf))
+    [PDF link](arxiv.org/pdf/1812.09954.pdf)
