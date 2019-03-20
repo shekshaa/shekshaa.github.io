@@ -1,17 +1,17 @@
 - name: InceptionGCN
-  github: shekshaa/InceptionGCN
   description: | # this will include new lines to allow paragraphs
     **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**
-    
+    ***
     In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
     We design filters with different kernel sizes to build our architecture. 
-    [PDF link](arxiv.org/pdf/1903.04233.pdf)
+    
+    [PDF link](arxiv.org/pdf/1903.04233.pdf) [Code link](github.com/shekshaa/InceptionGCN)
 
 - name: ParallelGCN
   description: |
     **Self-Attention Equipped Graph Convolutions For Disease Prediction**
-    
+    ***
     Multi-modal data comprising imaging (MRI, fMRI, PET, etc.) and non-imaging (clinical test, demographics, etc.) data can be collected together and used for disease prediction. 
     A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
     We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
