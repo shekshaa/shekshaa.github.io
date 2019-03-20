@@ -32,7 +32,7 @@
     
     Recenlty, I have also started to work on my Bachelor Thesis which is related to 
     **classifying subjects in terms of different feelings such as arousal and dominance using their EEG signals**
-    collected as a publicly available dataset called [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)). 
+    collected as a publicly available dataset called [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/). 
     Our main approach is to solve this problem using Multilayered Graph Convolutional Networks.
     
 - company: DataDays
