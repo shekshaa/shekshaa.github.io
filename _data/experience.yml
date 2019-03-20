@@ -1,12 +1,13 @@
 - company: Technical University Munich
-  link: http://campar.in.tum.de
   jobs:
     - title: Research Intern
       dates: July 2018 - September 2018
     - title: Researcher
       dates: September 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
+    During the summer of 2018, I worked as a research intern in the 
+    Computer Aided Medical Procedures and Augmented Reality Lab ([CAMPAR](http://campar.in.tum.de)), 
+    under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
     From September 2018, I started my collaboration with my advisor remotely.
     
     My research centered around Deep Learning on Graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
@@ -17,11 +18,10 @@
     It is published in a new paper accepted for oral presentation (7% acceptance rate) in international conference on Information Processing in Medical Imaging (IPMI 2019).
 
 - company: Sharif University of Technology
-  link: http://mll.ce.sharif.edu/
   job_title: Research Assistant
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    I have started to work on research two projects at MLL lab under supervision of Dr. Soleymani:
+    I have started to work on research two projects at [MLL](http://mll.ce.sharif.edu/) under supervision of Dr. Soleymani:
     
     Goal of the first one is to analyze mammograms of a locally collected dataset by deep learning methods detecting clusters of micro-calcification in mammograms with high quality. 
     
@@ -29,11 +29,10 @@
     Our main approach is to solve this problem using multilayered graph convolutional networks.
     
 - company: DataDays
-  link: http://datadays.sharif.edu/
   job_title: Scientific Staff
   dates: December 2018 - March 2019
   description: |
-    This was the first data scientific event held by sharif university consists of different levels and stages. 
+    [DataDays](http://datadays.sharif.edu/) was the first data scientific event held by sharif university consists of different levels and stages. 
     Its main goal was to broaden appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
@@ -42,11 +41,10 @@
     This dataset mainly comprises online advertisements published by people in different categories.
   
 - company: Yektanet
-  link: https://www.yektanet.com/
   job_title: Data Scientist
   dates: July 2017 - September 2017
   description: |
-    During summer of 2017, I worked for a start-up called Yektanet, an online advertisement platform in my country. 
+    During summer of 2017, I worked for a start-up called [Yektanet](https://www.yektanet.com/), an online advertisement platform in my country. 
     This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
     I was employed as data scientist and developed algorithms determining the subject of web pages based on their main textual data. 
     They are now deployed for displaying relevant items of advertisement on each webpage.
