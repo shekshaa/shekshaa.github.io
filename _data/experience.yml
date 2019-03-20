@@ -1,4 +1,4 @@
-- company: Technical Univeristy Munich
+- company: Technical University Munich
   link: http://campar.in.tum.de
   jobs:
     - title: Research Intern
@@ -18,17 +18,18 @@
 
 - company: Sharif University of Technology
   link: http://mll.ce.sharif.edu/
-  jobs_title: Research Assistant
+  job_title: Research Assistant
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    I have started to work on two projects at MIL lab under supervision of Dr. Soleymani.
+    I have started to work on research two projects at MIL lab under supervision of Dr. Soleymani:
     
-    1. Goal of the first one is to analyze mammograms of a locally collected dataset by deep learning methods detecting clusters of micro-calcification in mammograms with high quality. 
+    Goal of the first one is to analyze mammograms of a locally collected dataset by deep learning methods detecting clusters of micro-calcification in mammograms with high quality. 
     
-    2. Recenlty, I have started another new project on a publicly available EEG data to classify subjects based on their arrousal using signals. Our main approach is to solve this problem using multilayered graph convolutional networks.
+    Recenlty, I have also started another new project on a publicly available EEG data to classify subjects based on their arrousal using signals. 
+    Our main approach is to solve this problem using multilayered graph convolutional networks.
 - company: Yektanet
   link: https://www.yektanet.com/
-  jobs_title: Data Scientist
+  job_title: Data Scientist
   dates: July 2017 - September 2017
   description: |
     During summer of 2017, I worked for a start-up called Yektanet, an online advertisement platform in my country. 
