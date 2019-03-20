@@ -1,14 +1,28 @@
-- name: InceptionGCN
-  link: arxiv.org/pdf/1903.04233.pdf
+# - name: InceptionGCN
+#   link: arxiv.org/pdf/1903.04233.pdf
+#   description: | # this will include new lines to allow paragraphs
+#     In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
+#     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
+#     We design filters with different kernel sizes to build our architecture.
+
+# - name: ParallelGCN
+#   link: arxiv.org/pdf/1812.09954.pdf
+#   description: |
+#     Multi-modal data comprising imaging (MRI, fMRI, PET, etc.) and non-imaging (clinical test, demographics, etc.) data can be collected together and used for disease prediction. 
+#     A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
+#     We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
+#     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data by exploring its relation to the underlying disease. 
+
+- company: InceptionGCN
   description: | # this will include new lines to allow paragraphs
     In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
-    We design filters with different kernel sizes to build our architecture.
+    We design filters with different kernel sizes to build our architecture. [PDF link](arxiv.org/pdf/1903.04233.pdf)
 
-- name: ParallelGCN
-  link: arxiv.org/pdf/1812.09954.pdf
+- company: ParallelGCN
   description: |
     Multi-modal data comprising imaging (MRI, fMRI, PET, etc.) and non-imaging (clinical test, demographics, etc.) data can be collected together and used for disease prediction. 
     A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
     We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data by exploring its relation to the underlying disease. 
+    [PDF link](arxiv.org/pdf/1812.09954.pdf)
