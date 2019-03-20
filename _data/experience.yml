@@ -1,11 +1,10 @@
 - company: Technical Univeristy Munich
-  link: boringcompany.com
+  link: http://campar.in.tum.de
   jobs:
     - title: Research Intern
       dates: July 2018 - September 2018
     - title: Researcher
       dates: September 2018 - Present
-  quote: >
   description: | # this will include new lines to allow paragraphs
     During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
     From September 2018, I started my collaboration with my advisor remotely.
@@ -16,3 +15,23 @@
     The initial results of this study are now published and accepted for oral presentation in IEEE International Symposium on Biomedical Imaging (ISBI 2019). 
     Furthermore, we proposed a novel architecture called InceptionGCN addressing the problem of manually setting neighborhood size of nodes. 
     It is published in a new paper accepted for oral presentation (7% acceptance rate) in international conference on Information Processing in Medical Imaging (IPMI 2019).
+
+- company: Sharif University of Technology
+  link: http://mll.ce.sharif.edu/
+  jobs_title: Research Assistant
+  dates: April 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    I have started to work on two projects at MIL lab under supervision of Dr. Soleymani.
+    
+    1. Goal of the first one is to analyze mammograms of a locally collected dataset by deep learning methods detecting clusters of micro-calcification in mammograms with high quality. 
+    
+    2. Recenlty, I have started another new project on a publicly available EEG data to classify subjects based on their arrousal using signals. Our main approach is to solve this problem using multilayered graph convolutional networks.
+- company: Yektanet
+  link: https://www.yektanet.com/
+  jobs_title: Data Scientist
+  dates: July 2017 - September 2017
+  description: |
+    During summer of 2017, I worked for a start-up called Yektanet, an online advertisement platform in my country. 
+    This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
+    I was employed as data scientist and developed algorithms determining the subject of web pages based on their main textual data. 
+    They are now deployed for displaying relevant items of advertisement on each webpage.
