@@ -1,12 +1,13 @@
 - company: Technical Univeristy Munich
   link: boringcompany.com
-  job_title: Research Intern
-  dates: July 2018 - September 2018
+  job_title: Researcher
+  dates: July 2018 - Present
   quote: >
   description: | # this will include new lines to allow paragraphs
-    During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM). 
+    During the summer of 2018, I worked as a research intern in the Computer Aided Medical Procedures and Augmented Reality Lab (CAMPAR), under the supervision of Prof. Dr. Nassir Navab, at Technical University of Munich (TUM).
+    From September 2018, I started my collaboration with my advisor remotely.
     
-    My research centered around deep learning on graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
+    My research centered around Deep Learning on Graphs. We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
     
     Based on the insight gained from these visualizations, we proposed new architectures that were applied to medical datasets. 
     The initial results of this study are now published and accepted for oral presentation in IEEE International Symposium on Biomedical Imaging (ISBI 2019). 
