@@ -5,7 +5,8 @@
     
     In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
-    We design filters with different kernel sizes to build our architecture. [PDF link](arxiv.org/pdf/1903.04233.pdf)
+    We design filters with different kernel sizes to build our architecture. 
+    [PDF link](arxiv.org/pdf/1903.04233.pdf)
 
 - name: ParallelGCN
   description: |
@@ -15,4 +16,5 @@
     A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
     We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
-    by exploring its relation to the underlying disease. [PDF link](arxiv.org/pdf/1812.09954.pdf)
+    by exploring its relation to the underlying disease. 
+    [PDF link](arxiv.org/pdf/1812.09954.pdf)
