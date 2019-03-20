@@ -1,8 +1,77 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+- company: Technical University Munich
+  jobs:
+    - title: Research Intern
+      dates: July 2018 - September 2018
+    - title: Researcher
+      dates: September 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    During the summer of 2018, I worked as a research intern in the 
+    Computer Aided Medical Procedures and Augmented Reality Lab ([CAMPAR](http://campar.in.tum.de)), 
+    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM).
+    From September 2018, I started my collaboration with my advisor remotely.
+    
+    We developed and applied various visualization methods over different state-of-the-art architectures of Graph Convolutional Neural Networks, in order to investigate the characteristics and behavior of these architectures. 
+    
+    Based on the insight gained from these visualizations, we proposed a new architecture that was applied to medical datasets. 
+    The result of this study is now published and accepted for oral presentation
+    in **IEEE International Symposium on Biomedical Imaging** ([ISBI 2019](https://biomedicalimaging.org/2019/)). 
+    
+    Furthermore, we proposed a novel architecture called InceptionGCN addressing the problem of manually setting neighborhood size of nodes. 
+    It is published in a new paper accepted for oral presentation (7% acceptance rate) 
+    in International Conference on **Information Processing in Medical Imaging** ([IPMI 2019](https://ipmi2019.cse.ust.hk/)).
+
+- company: Sharif University of Technology
+  job_title: Research Assistant
+  dates: April 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    I joined [MLL](http://mll.ce.sharif.edu/)
+    under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two projects.
+    
+    In the first project we have aimed to analyze Mammograms of a locally collected dataset 
+    with Convolutional Neural Networks (CNN) in order to **detect clusters of micro-calcification** with high quality.
+    
+    Recenlty, I have also started to work on my Bachelor Thesis which is related to 
+    **classifying subjects in terms of different feelings such as arousal and dominance using their EEG signals**
+    collected as a publicly available dataset called [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/). 
+    Our main approach is to solve this problem using Multilayered Graph Convolutional Networks.
+    
+- company: DataDays
+  job_title: Scientific Staff
+  dates: December 2018 - March 2019
+  description: |
+    [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held 
+    by Sharif University of Technology.
+    Its main goal was to broaden appeal for working on problems related to data. 
+    Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
+    
+    As a volunteer, I joined the Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
+    The whole competition was centered around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
+    This dataset mainly comprises online advertisements published by people in different categories.
+  
+- company: Yektanet
+  job_title: Data Scientist
+  dates: July 2017 - September 2017
+  description: |
+    During summer of 2017, I worked for a start-up called [Yektanet](https://www.yektanet.com/), an online advertisement platform in my country. 
+    This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
+    I was employed as data scientist and developed algorithms **determining the subject of web pages using their textual data**. 
+    They are now deployed for displaying relevant items of advertisement on each webpage.
+
+- company: Sharif Univeristy of Technology
+  job_title: Teaching Assistant
+  description: |
+    Some of my teaching experiences as assistant:
+    
+    **Spring 2019:**
+    + Deep Learning (Graduate Course)
+    + Information Theory (Graduate Course)
+      
+    **Fall 2018:**
+    + Stochastic Processes (Graduate Course)
+    + Linear Algebra
+    
+    **Spring 2018:**
+    + Probability and Statistics
+      
+    **Fall 2017:**
+    + Probability and Statistics
