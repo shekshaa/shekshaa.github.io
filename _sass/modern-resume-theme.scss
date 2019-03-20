@@ -70,9 +70,9 @@ ul.icons a {
 }
 
 .pub-img {
-  width: 100%;
+  width: 200px;
   height: 200px;
-  object-fit: contain;
+  object-fit: fill;
   display: block;
   border-radius: 8px;
 }
