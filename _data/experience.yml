@@ -44,7 +44,7 @@
     Its main goal was to broaden appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
-    I joined the Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
+    As a volunteer, I joined the Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
     The whole competition was centered around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
     This dataset mainly comprises online advertisements published by people in different categories.
   
@@ -56,3 +56,23 @@
     This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
     I was employed as data scientist and developed algorithms **determining the subject of web pages using their textual data**. 
     They are now deployed for displaying relevant items of advertisement on each webpage.
+
+- company: Sharif Univeristy of Technology
+  job_title: Teaching Assistant
+  description: |
+    Spring 2019: 
+      1. Deep Learning (Graduate Course)
+      2. Information Theory (Grduate Course)
+      
+    Fall 2018:
+      1. Stochastic Processes (Graduate Course)
+      2. Linear Algebra
+    
+    Spring 2018:
+      1. Probability and Statistics for Computer Engineering
+      2. Theory of Langauges and Automata
+      
+    Fall 2017:
+      1. Probability and Statistics for Computer Engineering
+      2. Data Structures and Algorithms
+ 
