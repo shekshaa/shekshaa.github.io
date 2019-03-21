@@ -1,7 +1,7 @@
 - name: InceptionGCN
   image: images/Inception_method.png
   description: | # this will include new lines to allow paragraphs
-    **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**
+    ## **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**
     
     ---
     
@@ -18,7 +18,7 @@
 - name: ParallelGCN
   image: images/ISBI_method.png
   description: |
-    **Self-Attention Equipped Graph Convolutions For Disease Prediction**
+    ## **Self-Attention Equipped Graph Convolutions For Disease Prediction**
     
     ---
     
