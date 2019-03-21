@@ -34,6 +34,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.researchgate_username -%}
+          <li>
+            <a target="_blank" href="https://https://www.researchgate.net/profile/{{ site.researchgate_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-researchgate" title="Github link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.instagram_username -%}
           <li>
             <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
