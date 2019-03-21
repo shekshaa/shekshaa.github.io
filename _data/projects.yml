@@ -9,7 +9,7 @@
     The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
     We design filters with different kernel sizes to build our architecture.
     
-    <span style="color:red"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Karsten Kortum,
+    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Karsten Kortum,
     Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
     
     <span style="color:green"> Information Processing in Medical Imaging (IPMI 2019) </span>
@@ -28,7 +28,7 @@
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
     by exploring its relation to the underlying disease.
     
-    <span style="color:red"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
+    <span style="color:#900"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
     Shadi Albarqouni, and Nassir Navab </span> 
     
     <span style="color:green"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
