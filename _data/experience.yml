@@ -25,7 +25,7 @@
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
     I joined [MLL](http://mll.ce.sharif.edu/)
-    under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two projects.
+    under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two projects:
     
     In the first project we have aimed to analyze Mammograms of a locally collected dataset 
     with Convolutional Neural Networks (CNN) in order to **detect clusters of micro-calcification** with high quality.
