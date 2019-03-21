@@ -12,7 +12,7 @@
     <span style="color:blue"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Karsten Kortum,
     Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
     
-    Information Processing in Medical Imaging (IPMI 2019)
+    <span style="color:green"> Information Processing in Medical Imaging (IPMI 2019) </span>
     [[PDF](https://arxiv.org/pdf/1903.04233.pdf)][[Code](https://github.com/shekshaa/InceptionGCN)]
     
 - name: ParallelGCN
@@ -31,5 +31,5 @@
     <span style="color:blue"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
     Shadi Albarqouni, and Nassir Navab </span> 
     
-    IEEE International Symposium on Biomedical Imaging (ISBI 2019)
+    <span style="color:green"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
     [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
