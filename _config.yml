@@ -24,7 +24,7 @@ linkedin_username: shayan-shekarforoush-597508136
 # about_title: About Me
 about_profile_image: images/pf.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently in my fourth year of bachelor’s degree in Computer Engineering at Sharif University of Technology, the top technical university of Iran. 
+  I am currently in my fourth year of bachelor’s degree in Computer Engineering at [Sharif University of Technology](http://www.sharif.ir), the top technical university of Iran. 
   
   My field of interest includes Deep Learning and Machine Learning, with applications to Medical Imaging and Computer Vision.
 # Projects Section
