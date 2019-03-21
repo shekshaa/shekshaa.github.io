@@ -4,7 +4,9 @@ body {
   font-feature-settings: "kern", "liga", "pnum";
   font-size: 1em;
   line-height: 1.5;
-
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
   @media print {
     font-size: 0.9em;
   }
