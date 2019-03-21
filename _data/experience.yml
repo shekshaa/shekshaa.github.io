@@ -27,10 +27,10 @@
     I joined [MLL](http://mll.ce.sharif.edu/)
     under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) and have started to work on two projects:
     
-    + In the first project we have aimed to analyze Mammograms of a locally collected dataset 
+    In the first project we have aimed to analyze Mammograms of a locally collected dataset 
     with Convolutional Neural Networks (CNN) in order to **detect clusters of micro-calcification** with high quality.
     
-    + Recenlty, I have also started to work on my Bachelor Thesis which is related to 
+    Recenlty, I have also started to work on my Bachelor Thesis which is related to 
     **classifying subjects in terms of different feelings such as arousal and dominance using their EEG signals**
     collected as a publicly available dataset called [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/). 
     Our main approach is to solve this problem using Multilayered Graph Convolutional Networks.
