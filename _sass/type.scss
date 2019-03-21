@@ -5,7 +5,7 @@ body {
   font-size: 1em;
   line-height: 1.5;
   background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
+  background-repeat: repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
   @media print {
     font-size: 0.9em;
