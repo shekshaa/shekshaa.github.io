@@ -28,8 +28,8 @@
     We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
     by exploring its relation to the underlying disease.
     
-    <span style="color:blue"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
+    <span style="color:#900"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
     Shadi Albarqouni, and Nassir Navab </span> 
     
-    <span style="color:green"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
+    <span style="color:#090"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
     [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
