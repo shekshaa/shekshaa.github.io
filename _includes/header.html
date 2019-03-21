@@ -92,14 +92,9 @@
         {%- endif -%}
       </ul>
 
-      {%- if site.email1 -%}
+      {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email1 }}" target="_blank">{{ site.email1 | escape }}</a>
-        </p>
-      {%- endif -%}
-      {%- if site.email2 -%}
-        <p>
-          <a href="mailto:{{ site.email2 }}" target="_blank">{{ site.email2 | escape }}</a>
+          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
