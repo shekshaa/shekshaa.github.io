@@ -44,7 +44,10 @@
     Its main goal was to broaden appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
-    As a volunteer, I joined the Scientific Staff and help them to propose questions which could be solved Machine Learning and Deep Learning methods.
+    As a volunteer, I joined the Scientific Staff and help them to propose questions which could be solved by Machine Learning and Deep Learning methods.
+    In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related 
+    to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields. 
+    
     The whole competition was centered around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
     This dataset mainly comprises online advertisements published by people in different categories.
   
@@ -63,7 +66,9 @@
     Some of my teaching experiences as assistant:
     
     **Spring 2019:**
-    + Deep Learning (Graduate Course)
+    + Deep Learning (Graduate Course) 
+        [[MLP Assignment](https://github.com/shekshaa/MLP)] 
+        [[Autoencoder Assignment](https://github.com/shekshaa/Autoencoder)]
     + Information Theory (Graduate Course)
       
     **Fall 2018:**
