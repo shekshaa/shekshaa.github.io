@@ -1,5 +1,5 @@
 - name: GCN with Personalized Attention
-  image: images/micaai2019.png
+  image: images/miccai2019.png
   description: |
     ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
     
