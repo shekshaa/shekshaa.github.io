@@ -26,9 +26,11 @@ linkedin_username: shayan-shekarforoush-597508136
 # about_title: About Me
 about_profile_image: images/pf.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently in my fourth year of bachelor’s degree in Computer Engineering at [Sharif University of Technology](http://www.sharif.ir), the top technical university of Iran. 
+  Shayan Shekarforoush is currently studying his bachelor’s degree in Computer Engineering at [Sharif University of Technology](http://www.sharif.ir), 
+  where he conducts at research Machine Learning Laboratory advised by [Dr. Soleymani](http://sharif.edu/~soleymani/).
+  He has been a research intern at [CAMPAR](http://campar.in.tum.de) located in Technical University of Munich advised by [Prof. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
   
-  My field of interest includes Deep Learning and Machine Learning, with applications to Medical Imaging and Computer Vision.
+  My field of interest includes Deep Learning and Graph Learning, with applications to Medical Imaging and Computer Vision.
   You can download my CV [here](https://github.com/shekshaa/shekshaa.github.io/raw/master/files/CV.pdf).
 # Projects Section
 projects_title: Publications
