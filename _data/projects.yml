@@ -1,3 +1,21 @@
+- name: GCN with Personalized Attention
+  image: images/Inception_method.png
+  description: |
+    ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
+    
+    ---
+    
+    Clinicians implicitly incorporate the complementarity of multi-modal data for disease diagnosis.
+    Often a varied order of importance for this heterogeneous data is considered for personalized decisions.
+    Towards this, we introduce a model which not only improves the disease prediction but also focuses on 
+    learning patient-specific order of importance for multi-modal data elements. 
+    In order to achieve this, we take advantage of LSTM-based attention mechanism and graph convolutional networks (GCNs)
+    to design our model. GCNs learn multi-modal but class-specific features from the entire population of patients, 
+    whereas the attention mechanism optimally fuses these multi-modal features into a final decision, separately for each patient.
+    
+    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Benedict Wiestler, Karsten Kortum,
+    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
+    
 - name: InceptionGCN
   image: images/Inception_method.png
   description: | # this will include new lines to allow paragraphs
