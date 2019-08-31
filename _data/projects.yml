@@ -21,8 +21,7 @@
     
     ---
     
-    Clinicians implicitly incorporate the complementarity of multi-modal data for disease diagnosis.
-    Often a varied order of importance** for this heterogeneous data is considered for personalized decisions.
+    Often a varied order of importance for the multi-modal heterogeneous data is considered for personalized disease diagnosis decisions.
     Towards this, we introduce a model which not only improves the disease prediction but also focuses on 
     learning **patient-specific** order of importance for multi-modal data elements. 
     In order to achieve this, we take advantage of **LSTM-based attention mechanism** and **graph convolutional networks (GCNs)**
