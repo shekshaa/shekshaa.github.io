@@ -7,8 +7,8 @@
     
     Current single-cell classification methods take genes as independent features to assign cell types disregarding
     their interactome which has been shown to be of great importance in cellular processes. Here, we introduce 
-    single-cell Graph Convolutional Network (scGCN) which takes gene-gene interactions into account by constructing
-    a co- expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
+    **single-cell Graph Convolutional Network (scGCN)** which takes gene-gene interactions into account by constructing
+    a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
     
     <span style="color:#900"> Elyas Heidari, **Shayan Shekarforoush**, Laleh Haghverdi, and Wolfgang Huber </span>
     
