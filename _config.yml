@@ -26,13 +26,13 @@ linkedin_username: shayan-shekarforoush-597508136
 # about_title: About Me
 about_profile_image: images/pf.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is **Shayan Shekarforoush** and I am currently studying his bachelor’s degree in Computer Engineering at [Sharif University of Technology](http://www.sharif.ir).
+  My name is **Shayan Shekarforoush** and I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
   My research interests include Deep Learning in particular, and Machine Learning in general, with applications in Computer Vision and Graph Learning. 
   My motivation to pursue research in these areas stems from my strong desire to better understand these methods in a principled manner by investigating 
   both their mathematical underpinning and their practical implications in real life and in our society. 
   Although the techniques proposed in these fields have demonstrated considerable performance gain in recent years, 
   major challenges in terms of understanding their underlying mathematical foundations remain unresolved. 
-  My ultimate goal in my doctoral studies is to channel such better theoretical and functional understanding of 
+  My ultimate goal is to channel such better theoretical and functional understanding of 
   these new technologies towards better practical solutions for real life problems.
   
 # Projects Section
