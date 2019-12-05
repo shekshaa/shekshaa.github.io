@@ -16,7 +16,7 @@
   
     In another research project, I investigated how changing the receptive field size in GCN alters its overall performance.
     Accordingly, we designed a novel method called InceptionGCN utilizing inception modules, where each module has a different kernel size.
-    The result of this study is now published and accepted for **oral presentation (with 7% acceptance rate)** the conference of **Information 
+    The result of this study is now published and accepted for **oral presentation (with 7% acceptance rate)** in the conference of **Information 
     Processing in Medical Imaging (IPMI 2019)**.
     
     As continuation of my work on the first paper, I committed to a remote collaboration with CAMP at TUM on another project in which 
