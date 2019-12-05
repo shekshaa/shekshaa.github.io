@@ -12,21 +12,21 @@
     I started to study the recently emerging topic of Geometric Deep Learning. My first major involvement involvement with the team was 
     on a research project aiming to address the problem of semi-supervised disease prediction in a multi-modal setting, when the 
     dataset comprises of both imaging and non-imaging data. This work was published in the proceedings of the 
-    IEEE International Symposium on Biomedical Imaging (ISBI 2019), and was presented as an oral contribution.
+    **IEEE International Symposium on Biomedical Imaging (ISBI 2019)**, and was presented as an **oral contribution**.
   
     In another research project, I investigated how changing the receptive field size in GCN alters its overall performance.
     Accordingly, we designed a novel method called InceptionGCN utilizing inception modules, where each module has a different kernel size.
-    The result of this study is now published and accepted for oral presentation (with 7% acceptance rate) the conference of Information 
-    Processing in Medical Imaging (IPMI 2019).
+    The result of this study is now published and accepted for **oral presentation (with 7% acceptance rate)** the conference of **Information 
+    Processing in Medical Imaging (IPMI 2019)**.
     
     As continuation of my work on the first paper, I committed to a remote collaboration with CAMP at TUM on another project in which 
     our team incorporated a Long Short-Term Memory (LSTM) based attention mechanism into GCN to make patient-specific 
-    disease predictions. This work also resulted in a paper published in the International Conference on Medical Image Computing 
-    and Computer Assisted Intervention (MICCAI 2019).
+    disease predictions. This work also resulted in a paper published in the International Conference on **Medical Image Computing 
+    and Computer Assisted Intervention (MICCAI 2019)**.
     
     In summer 2019, I rejoined CAMP, but this time I took the initiative and identified the problem of automatically learning the 
-    receptive field size in GCNs as an open problem. I proposed a new model capable of adaptively learning the receptive field size 
-    in an end-to-end manner. Later, I realized that my model has direct applications to 3D shape analysis tasks such as 
+    receptive field size in GCNs as an open problem. I proposed a new model capable of **adaptively learning the receptive field size 
+    in an end-to-end manner**. Later, I realized that my model has direct applications to 3D shape analysis tasks such as 
     mesh regression and shape correspondence.
     
 - company: European Molecular Biology Laboratory
@@ -36,15 +36,15 @@
     I joined a project on single-cell transcriptomics under the supervision of Dr. Laleh Haghverdi, winner of an Erwin Schrödinger Prize. 
     Most of the existing single-cell classification methods take genes as independent features to assign cell types disregarding their interactions, 
     which has been shown to be of great importance in cellular processes. 
-    We introduced single-cell Graph Convolutional Network (scGCN), which takes gene-gene interactions into account 
+    We introduced **single-cell Graph Convolutional Network (scGCN)**, which takes gene-gene interactions into account 
     by constructing a co-expression network of a subset of genes. The results of this work were presented as a poster 
-    in the ISMB/ECCB 2019 conference.
+    in the **ISMB/ECCB 2019 conference**.
   
 - company: Sharif University of Technology
   job_title: Research Assistant
   dates: April 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    As part of my Bachelor Thesis, I worked under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) on Graph Learning in Heterogenous Networks.
+    As part of my Bachelor Thesis, I worked under supervision of [Dr. Soleymani](http://sharif.edu/~soleymani/) on **Graph Learning in Heterogenous Networks**.
     In this project, I have proposed and implemented a novel Autoencoder approach to efficiently solve the problem of 
     link prediction in networks with diversity in nodes.
     
