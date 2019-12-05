@@ -7,7 +7,6 @@
     - title: Research Intern
       dates: July 2019 - September 2019
   description: | # this will include new lines to allow paragraphs
-  
     In summer 2018, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
     under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM).
     I started to study the recently emerging topic of Geometric Deep Learning. My first major involvement involvement with the team was 
@@ -31,16 +30,15 @@
     mesh regression and shape correspondence.
     
 - company: European Molecular Biology Laboratory
-  jobs:
-    - title: Remote Collaboration
-      dates: December 2018 - Maarch 2019
+  job_title: Remote Collaboration
+  dates: December 2018 - Maarch 2019
   description: |
-  I joined a project on single-cell transcriptomics under the supervision of Dr. Laleh Haghverdi, winner of an Erwin Schrödinger Prize. 
-  Most of the existing single-cell classification methods take genes as independent features to assign cell types disregarding their interactions, 
-  which has been shown to be of great importance in cellular processes. 
-  We introduced single-cell Graph Convolutional Network (scGCN), which takes gene-gene interactions into account 
-  by constructing a co-expression network of a subset of genes. The results of this work were presented as a poster 
-  in the ISMB/ECCB 2019 conference.
+    I joined a project on single-cell transcriptomics under the supervision of Dr. Laleh Haghverdi, winner of an Erwin Schrödinger Prize. 
+    Most of the existing single-cell classification methods take genes as independent features to assign cell types disregarding their interactions, 
+    which has been shown to be of great importance in cellular processes. 
+    We introduced single-cell Graph Convolutional Network (scGCN), which takes gene-gene interactions into account 
+    by constructing a co-expression network of a subset of genes. The results of this work were presented as a poster 
+    in the ISMB/ECCB 2019 conference.
   
 - company: Sharif University of Technology
   job_title: Research Assistant
